@@ -9,17 +9,19 @@ Dept. Computer Science and Artificial Intelligence
 University of Granada
 
 Prof. Juan Gómez Romero
-Full Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
+Full Professor
+Dept. Computer Science and Artificial Intelligence
+University of Granada
 
 ## Contents
 
-### Fundamentals of Reinforcement Learning
+1. Fundamentals of Reinforcement Learning
 
-1. Machine (Reinforcement) Learning
-2. Elements of Reinforcement Learning
-3. The environment model
-4. A toy example of environment MDP
-5. Shall we play a game?
+  - Machine (Reinforcement) Learning
+  - Elements of Reinforcement Learning
+  - The environment model
+  - A toy example of environment MDP
+  - Shall we play a game?
 
 ### Classic methods for Reinforcement Learning
 
