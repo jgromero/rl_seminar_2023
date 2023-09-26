@@ -1,6 +1,5 @@
 # Reinforcement Learning seminar
 
-## Summary
 An introduction to Reinforcement and Deep Reinforcement with practical examples.
 
 ## Lecturers
@@ -8,6 +7,8 @@ An introduction to Reinforcement and Deep Reinforcement with practical examples.
   - Prof. Juan Gómez Romero. Full Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
 
 ## Contents
+
+Topics covered.
 
 ### Fundamentals of Reinforcement Learning
 
