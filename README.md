@@ -28,18 +28,18 @@ University of Granada
   - Value iteration
   - Q-Learning
 
-**3. Interlude: A quick recap of Neural Networks**
+**3. Interlude: A quick recap of Neural Networks**  [slides]([xxx](https://github.com/jgromero/rl_seminar_2023/blob/1f3cc54b831672f3011c5aec59de109d50295b61/slides/RL%202x01%20NeuralNetworks.pdf))
   - Introduction
   - Training
   - Implementation
 
-**4. Deep Reinforcement Learning**
+**4. Deep Reinforcement Learning** [slides](https://github.com/jgromero/rl_seminar_2023/blob/1f3cc54b831672f3011c5aec59de109d50295b61/slides/RL%202x01%20NeuralNetworks.pdf)
   - Introduction
   - Deep Q-Learning
   - Policy-gradient methods
   - Actor-critic methods
 
-**5. ... And beyond**
+**5. ... And beyond** [slides]([xxx](https://github.com/jgromero/rl_seminar_2023/blob/1f3cc54b831672f3011c5aec59de109d50295b61/slides/RL%202x03%20And%20more.pdf)https://github.com/jgromero/rl_seminar_2023/blob/1f3cc54b831672f3011c5aec59de109d50295b61/slides/RL%202x03%20And%20more.pdf)
 
   - Additional topics
   - Resources
