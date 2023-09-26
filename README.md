@@ -3,8 +3,13 @@
 An introduction to Reinforcement and Deep Reinforcement with practical examples.
 
 ## Lecturers
-  - Prof. Manuel Pegalajar Cuéllar. Tenured Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
-  - Prof. Juan Gómez Romero. Full Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
+Prof. Manuel Pegalajar Cuéllar
+Tenured Professor
+Dept. Computer Science and Artificial Intelligence
+University of Granada
+
+Prof. Juan Gómez Romero
+Full Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
 
 ## Contents
 
