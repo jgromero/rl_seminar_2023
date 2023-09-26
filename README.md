@@ -41,7 +41,7 @@ University of Granada
 
 **5. ... And beyond**
 
-1. Additional topics
-2. Resources
-3. Environments
-4. Applications
+  - Additional topics
+  - Resources
+  - Environments
+  - Applications
