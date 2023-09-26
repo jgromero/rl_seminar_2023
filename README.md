@@ -6,11 +6,9 @@ An introduction to Reinforcement and Deep Reinforcement with practical examples.
   - Prof. Manuel Pegalajar Cuéllar. Tenured Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
   - Prof. Juan Gómez Romero. Full Professor. Dept. Computer Science and Artificial Intelligence, University of Granada
 
-## Contents
+## Contents
 
-Topics covered.
-
-### Fundamentals of Reinforcement Learning
+### Fundamentals of Reinforcement Learning
 
 1. Machine (Reinforcement) Learning
 2. Elements of Reinforcement Learning
@@ -25,7 +23,7 @@ Topics covered.
 3. Value iteration
 4. Q-Learning
 
-### Interlude: A quick recap of Neural Networks
+### Interlude: A quick recap of Neural Networks
 
 1. Introduction
 2. Training
