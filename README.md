@@ -15,35 +15,31 @@ University of Granada
 
 ## Contents
 
-1. Fundamentals of Reinforcement Learning
-
+**1. Fundamentals of Reinforcement Learning**
   - Machine (Reinforcement) Learning
   - Elements of Reinforcement Learning
   - The environment model
   - A toy example of environment MDP
   - Shall we play a game?
 
-### Classic methods for Reinforcement Learning
+**2. Classic methods for Reinforcement Learning**
+  - Introduction
+  - Value functions
+  - Value iteration
+  - Q-Learning
 
-1. Introduction
-2. 2. Value functions
-3. Value iteration
-4. Q-Learning
+**3. Interlude: A quick recap of Neural Networks**
+  - Introduction
+  - Training
+  - Implementation
 
-### Interlude: A quick recap of Neural Networks
+**4. Deep Reinforcement Learning**
+  - Introduction
+  - Deep Q-Learning
+  - Policy-gradient methods
+  - Actor-critic methods
 
-1. Introduction
-2. Training
-3. Implementation
-
-### Deep Reinforcement Learning
-
-1. Introduction
-2. Deep Q-Learning
-3. Policy-gradient methods
-4. Actor-critic methods
-
-### ... And beyond
+**5. ... And beyond**
 
 1. Additional topics
 2. Resources
